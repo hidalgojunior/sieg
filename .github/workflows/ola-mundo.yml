@@ -4,5 +4,5 @@ jobs:
     ola-mundo:
         runs-on: ubuntu-latest
         steps:
-            - run: echo "Olá... Estou vivo, estou aprendendo GitHub Actions, e estou feliz!"
+            - uses: actions/checkout@v4
             - run: ls -la
