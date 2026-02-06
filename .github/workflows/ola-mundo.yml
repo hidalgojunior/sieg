@@ -7,5 +7,5 @@ jobs:
             - uses: actions/checkout@v4
             - run: ls -la
             - run: bash meu-script.sh
-            env:
-                NOME_SISTEMA: "Sieg"
+        env:
+            NOME_SISTEMA: "Sieg"
