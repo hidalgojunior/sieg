@@ -1,0 +1,1 @@
+echo "Estou rodando um script que criei para testar o GitHub Actions"
